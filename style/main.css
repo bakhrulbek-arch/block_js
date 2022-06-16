@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+  font-size: 100%;
+  font-family: serif, sans-serif, Georgia, "Times New Roman", Times;
+}
+
+.item {
+  background-color: #30298c;
+  width: 100%;
+  height: 500px;
+}
+
+.item_2 {
+  background-color: #30298c;
+  width: 1220px;
+  height: 500px;
+
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  width: 85px;
+  height: 85px;
+
+  margin-top: 15px;
+  margin-right: 20px;
+}

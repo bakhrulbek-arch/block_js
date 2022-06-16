@@ -1,0 +1,24 @@
+.right {
+  width: 55vw;
+  height: 500px;
+}
+
+.r_set {
+  width: 600px;
+  height: 150px;
+  /* border: 1px solid rebeccapurple; */
+
+
+  margin-left: 10%;
+  /* margin: 20px auto; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.mar {
+  margin-top: 100px;
+}
+
+.r_set p {
+  color: rgb(158, 155, 155);
+}
